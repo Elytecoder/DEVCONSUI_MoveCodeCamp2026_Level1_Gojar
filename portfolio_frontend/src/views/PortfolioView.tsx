@@ -65,19 +65,17 @@ const useMetaTags = (metadata: {
 // PORTFOLIO DATA CONFIGURATION
 // ============================================================================
 const defaultPortfolioData = {
-  name: "LADY DIANE BAUZON CASILANG",
-  course: "BS in Information Technology",
-  school: "FEU Institute of Technology",
-  about: "I am a fourth-year IT student and freelance designer who integrates technical troubleshooting with creative insight to deliver innovative, efficient solutions.",
+  name: "ELY GOJAR",
+  course: "BS in Computer Science",
+  school: "Sorsogon State University - Bulan Campus",
+  about: "I am a fourth-year CS student from SorSu. I am very passionate about the technology and the kids which is the reason that drives me to become a DEVCON Kids coordinatorof Legazpi Chapter.",
   skills: [
-    "Graphic Design",
-    "UI / UX Design",
-    "Project Management",
-    "Full Stack Development",
-    "Web & App Development"
+    "Graphics Design",
+    "Quality Assurance Tester",
+    "System Analyst",
   ],
-  linkedin: "https://www.linkedin.com/in/ldcasilang/",
-  github: "https://github.com/ldcasilang",
+  linkedin: "https://www.linkedin.com/in/daniel-ely-gojar/",
+  github: "https://github.com/Elytecoder",
 }
 
 // Network configuration
